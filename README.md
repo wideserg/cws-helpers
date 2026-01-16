@@ -8,7 +8,7 @@ A DevTools script for Chrome Web Store pages that helps developers preview and t
 
 ### Demo
 
-<video src="imgs/cws-listing-img-swap-demo.mp4" controls width="100%"></video>
+[cws-listing-img-swap-demo (1).webm](https://github.com/user-attachments/assets/bece6bf8-8037-4772-85fe-3c312bc9437a)
 
 ### Core Features
 
